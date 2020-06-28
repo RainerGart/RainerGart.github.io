@@ -7,4 +7,5 @@ Hier war einmal text ist aber verlorengegangen.
 * hat eine Kusine die magische sehr begabt ist.
 
 Perter Grant sagt:
->Bloß um zu beweisen, dass das Training in Hendon in Fragen der ‚korrekten Herangehensweise bei sensiblen Themen‘ nicht umsonst gewesen war.>
+>Bloß um zu beweisen, dass das Training in Hendon in Fragen der ‚
+>korrekten Herangehensweise bei sensiblen Themen‘ nicht umsonst gewesen war.
